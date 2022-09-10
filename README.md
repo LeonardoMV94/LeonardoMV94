@@ -2,30 +2,37 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-mu%C3%B1oz-veloso/)](https://www.linkedin.com/in/leonardo-mu%C3%B1oz-veloso/)
 [![Email](https://img.shields.io/badge/-Email-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomunozveloso@gmail.com)](mailto:leonardomunozveloso@gmail.com)
+
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh) -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Developer in INACAP CL (Class of 2018) 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Developer in INACAP CL (Class of 2018)
 
 ```js
 export default () => ({
-  pronouns: "He" | "Him",
-  pubKey: "4c 65 6f 6e 61 72 64 6f",
+  pronouns: 'He' | 'Him',
+  pubKey: '4c 65 6f 6e 61 72 64 6f',
   askMeAbout: [
-    "webdev", "tech", "music", "research", "cyclist"
+    'webdev', 'tech', 'music', 'research', 'cyclist'
   ],
   technologies: {
+    lenguages: [
+      'javascript', 'typescript', 'java', 'python'
+    ],
+    tools: [ 'VS Code', 'Intellij Idea' ],
     frontEnd: {
-      js: [ "react", "vue" ],
-      css: [ "materialize", "bulma", "bootstrap" , "tailwind"]
+      js: [ 'react', 'vue' ],
+      css: [ 'materialize', 'bulma', 'bootstrap' , 'tailwind' ]
     },
     backEnd: {
-      java: ["spring"],
-      js: ["node", "express", "nestjs"],
-      python: ["django", "flask"],
-      misc: ["bash", "systemd", "selinux"],
-      container: ['Docker', 'Docker Compose']
+      java: ['spring'],
+      js: ['node', 'express', 'nestjs'],
+      misc: ['Firebase','bash', 'powershell'],
+      orm: ['typeorm', 'sequelize', 'spring data']
+      container: ['Docker', 'Docker Compose' ]
     },
-    databases: ["mongo", "postgres", "mysql"]
+    databases: ['mongo', 'postgres', 'mysql'],
+    os: ['Windows', 'Debian', 'MacOs']
+    toLearn: ['Go', 'Ruby', 'Machine Learning']
   },
 });
 ```
