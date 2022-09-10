@@ -15,8 +15,8 @@ export default () => ({
     'webdev', 'tech', 'music', 'research', 'cyclist'
   ],
   technologies: {
-    lenguages: [
-      'javascript', 'typescript', 'java', 'python'
+    code: [
+      'javascript', 'typescript', 'java', 'kotlin', 'python'
     ],
     tools: [ 'VS Code', 'Intellij Idea' ],
     frontEnd: {
@@ -24,16 +24,19 @@ export default () => ({
       css: [ 'materialize', 'bulma', 'bootstrap' , 'tailwind' ]
     },
     backEnd: {
-      java: ['spring'],
-      js: ['node', 'express', 'nestjs'],
-      misc: ['Firebase','bash', 'powershell'],
-      orm: ['typeorm', 'sequelize', 'spring data']
-      container: ['Docker', 'Docker Compose' ]
+      java: [ 'spring'],
+      js: [ 'node', 'express', 'nestjs' ],
+      misc: [ 'Firebase','bash', 'powershell' ],
+      orm: [ 'typeorm', 'sequelize', 'spring data' ]
+      container: [ 'Docker', 'Docker Compose' ]
     },
-    databases: ['mongo', 'postgres', 'mysql'],
-    os: ['Windows', 'Debian', 'MacOs']
-    toLearn: ['Go', 'Ruby', 'Machine Learning']
+    mobile: 'Android native',
+    databases: [ 'mongo', 'postgres', 'mysql', 'sqlite' ],
   },
+  os: [ 'Windows', 'Debian', 'MacOs' ],
+  architecture: [ "mvc", "mvvm", 'clean arquitecture' ],
+  learning: [ 'Go', 'Ruby', 'Machine Learning' ],
+  funFact: "There are two ways to write error-free programs; only the third one works",
 });
 ```
 
