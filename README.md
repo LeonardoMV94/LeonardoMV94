@@ -27,7 +27,7 @@ export default () => ({
       java: [ 'spring'],
       js: [ 'node', 'express', 'nestjs' ],
       misc: [ 'Firebase','bash', 'powershell' ],
-      orm: [ 'typeorm', 'sequelize', 'spring data' ]
+      orm: [ 'typeorm', 'sequelize', 'spring data' ],
       container: [ 'Docker', 'Docker Compose' ]
     },
     mobile: 'Android native',
