@@ -72,6 +72,9 @@
 <a href="https://rogerdudler.github.io/git-guide/index.es.html" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/> 
 </a>
+<a href="https://www.nginx.com/resources/glossary/devops/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Ngnix" width="40" height="40"/> 
+</a>
 </p>
 
 <h3 align="left">Operative Systems:</h3>
