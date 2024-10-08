@@ -39,7 +39,7 @@ jobs:
           sudo apt-get install -y docker.io jq
 
       - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@v3.34  # Updated to the correct version
+        uses: lowlighter/metrics@v3.33  # Updated to the correct version
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: LeonardoMV94
