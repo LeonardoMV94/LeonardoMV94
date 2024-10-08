@@ -1,95 +1,51 @@
-<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi, I'm Leonardo Muñoz </h2>
+<h1 align="center">Hi, I'm Leonardo Muñoz! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LeonardoMV94_badge_&left_color=royalblue&right_color=black"  />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-mu%C3%B1oz-veloso/)](https://www.linkedin.com/in/leonardo-mu%C3%B1oz-veloso/)
-[![Email](https://img.shields.io/badge/-Email-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomunozveloso@gmail.com)](mailto:leonardomunozveloso@gmail.com)
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh) -->
-
-<h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" alt="typescript" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> 
-</a>
-</p>
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://img.icons8.com/?size=512&id=9Gfx4Dfxl0JK&format=png" alt="spring" width="40" height="40"/> 
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a>
-</p>
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudiocode" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> 
-</a>
-</p>
-<h3 align="left">Databases:</h3>
-<p align="left"> 
-  <a href="https://www.mysql.com/why-mysql/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
-</a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-</a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> 
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,prometheus,grafana,nginx,git,github,pnpm,npm,ubuntu,windows,apple,postgres,mysql,mongo,prisma,selenium,ts,js,express,jest,vue,pinia,nuxt,react,java,tailwind,css,bootstrap," alt="Skills and tools"/>
+  </a>
 </p>
 
-<h3 align="left">DevOps:</h3>
-<p align="left"> 
-  <a href="https://docs.docker.com/engine/install/ubuntu/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" width="40" height="40"/> 
-</a>
-<a href="https://rogerdudler.github.io/git-guide/index.es.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="40" height="40"/> 
-</a>
-<a href="https://www.nginx.com/resources/glossary/devops/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Ngnix" width="40" height="40"/> 
-</a>
-</p>
 
-<h3 align="left">Operative Systems:</h3>
-<p align="left"> 
-  <a href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/A/apple-logo-52C416BDDD-seeklogo.com.png" alt="MacOs" width="40" height="40"/> 
-</a>
-<a href="https://www.microsoft.com/es-es/software-download/windows11" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Windowss" width="40" height="40"/> 
-</a>
-<a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="Ubuntu" width="40" height="40"/> 
-</a>
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/LeonardoMV94/LeonardoMV94/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
 
-<h4 align="center">Top langs in github</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMV94&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <!-- Left Column: Metrics -->
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/LeonardoMV94/LeonardoMV94/blob/main/github-metrics.svg">
+    </div>
+
+
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/leonardo-munoz-veloso" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+            </a>
+        </p>
+        
+  <!-- <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I love Hackathons, Swimming and Tennis.</li>
+            <li>I’m on a journey to build a big house in Alaska!</li>
+            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+        </ul>
+        
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
+            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
+            in physical activities like swimming and judo, or planning my next adventure. 
+        </p>
+        <p>
+            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
+            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+        </p> 
+    </div>-->
+</div>
