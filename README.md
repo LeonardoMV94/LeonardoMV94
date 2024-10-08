@@ -15,12 +15,12 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
-    <div style="flex: 1; max-width: 60%;">
-        <img align="left" width="100%" alt="if you see this, it means my metrics are not working" src="./github-metrics.svg">
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="./github-metrics.svg">
     </div>
 
 
-  <div style="flex: 1; max-width: 30%; text-align: left; margin-left: 20px;">
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
             <a href="https://www.linkedin.com/in/leonardo-munoz-veloso" target="_blank" style="text-decoration: none;">
