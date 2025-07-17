@@ -10,7 +10,11 @@
 </p>
 
 
-![GitHub Snake](github-user-contribution.svg) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoMV94/LeonardoMV94/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoMV94/LeonardoMV94/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeonardoMV94/LeonardoMV94/output/github-snake.svg" />
+</picture>
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
